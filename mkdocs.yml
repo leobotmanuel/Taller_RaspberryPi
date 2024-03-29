@@ -47,13 +47,13 @@ theme:
   name: material
   # Color - Fuentes - Lenguaje
   palette:
-    primary: blue grey # TODO:
-    accent: red # TODO:
+    primary: blue grey 
+    accent: red 
   font:
-    text: Roboto #TODO:
-    code: Roboto Mono # TODO:
-  logo: img/favicon.png #TODO:
-  favicon: img/favicon.png # TODO:
+    text: Roboto
+    code: Roboto Mono
+  logo: img/favicon.png
+  favicon: img/favicon.png
   language: es
   # Página 404
   static_templates:
