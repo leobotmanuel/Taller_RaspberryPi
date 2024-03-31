@@ -2,52 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://leobotmanuel.github.io/</loc>
-         <lastmod>2024-03-29</lastmod>
+         <lastmod>2024-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://leobotmanuel.github.io/about/</loc>
-         <lastmod>2024-03-29</lastmod>
+         <lastmod>2024-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://leobotmanuel.github.io/imagenes/</loc>
-         <lastmod>2024-03-29</lastmod>
+         <lastmod>2024-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://leobotmanuel.github.io/instSOuSD/</loc>
-         <lastmod>2024-03-29</lastmod>
+         <lastmod>2024-03-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://leobotmanuel.github.io/lenguajesProgEdu/</loc>
+         <lastmod>2024-03-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://leobotmanuel.github.io/programacionFisica/</loc>
+         <lastmod>2024-03-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://leobotmanuel.github.io/simuladorProgramacion/</loc>
+         <lastmod>2024-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://leobotmanuel.github.io/software/</loc>
-         <lastmod>2024-03-29</lastmod>
+         <lastmod>2024-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://leobotmanuel.github.io/instalacion/activarVNC/</loc>
-         <lastmod>2024-03-29</lastmod>
+         <lastmod>2024-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://leobotmanuel.github.io/instalacion/actualizarRPi/</loc>
-         <lastmod>2024-03-29</lastmod>
+         <lastmod>2024-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://leobotmanuel.github.io/instalacion/conectarVNC/</loc>
-         <lastmod>2024-03-29</lastmod>
+         <lastmod>2024-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://leobotmanuel.github.io/instalacion/conexonSSH/</loc>
-         <lastmod>2024-03-29</lastmod>
+         <lastmod>2024-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://leobotmanuel.github.io/instalacion/detectarIP/</loc>
-         <lastmod>2024-03-29</lastmod>
+         <lastmod>2024-03-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
