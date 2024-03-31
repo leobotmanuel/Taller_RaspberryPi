@@ -34,6 +34,9 @@ nav:
   - 0. Introducción: index.md
   - 1. Instalación S.O. en miroSD: instSOuSD.md
   - 2. Software: software.md
+  - 3. Lenguajes programación educativa: lenguajesProgEdu.md
+  - 4. Simulador de programación: simuladorProgramacion.md
+  - 5. Programación física: programacionFisica.md
   
   - Autores: about.md
   
