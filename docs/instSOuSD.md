@@ -1,4 +1,4 @@
-#**1. Instalación de S.O. en microSD para RPi 4B**
+# **1. Instalación de S.O. en microSD para RPi 4B**
 En los proyectos maker con la placa Raspberry Pi es interesante y cómodo controlarla de manera remota. Para prepararla se necesita un portátil, una Raspberry Pi (en este taller la RPi 4B) y su fuente de alimentación, una tarjeta microSD (16GB o más), software de grabación de tarjeta RPi Imager, software de comunicaciones PuTTY (protocolo SSH) y VNC (control remoto de escritorio), una red wifi (móvil con conexión wifi compartida) y la app Fing (opcional,buscador de IP en red local).
 <center>
 ![sistemaRPi](img/instSOuSD/sistemaRPi.png)
