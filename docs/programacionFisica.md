@@ -1,5 +1,4 @@
 #**5. Programación Física**#
 
-###**5.1.**
+Se va a seguir la guía oficial
 
-###**5. 2.**
