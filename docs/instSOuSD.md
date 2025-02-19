@@ -116,15 +116,15 @@ Accediendo a ajustes del móvil de **Conexión Compartida** se obtiene la IP.
 
 **En Linux:**
 
-    1. En Linux abre el terminal, puedes usar el atajo Ctrl + Alt + T o buscar "Terminal" en tu gestor de aplicaciones.
-    2. Usar el comando **ipconfig** para ver la dirección IP local.
-    3. Usar el comando **nmap -sP [rango de IP]** para escanear la red y obtener una lista más completa de dispositivos conectados. Por ejemplo, nmap -sP 192.168.1.0/24 escaneará todos los dispositivos en la red 192.168.1.x.
+1. En Linux abre el terminal, puedes usar el atajo Ctrl + Alt + T o buscar "Terminal" en tu gestor de aplicaciones.
+2. Usar el comando **ipconfig** para ver la dirección IP local.
+3. Usar el comando **nmap -sP [rango de IP]** para escanear la red y obtener una lista más completa de dispositivos conectados. Por ejemplo, nmap -sP 192.168.1.0/24 escaneará todos los dispositivos en la red 192.168.1.x.
 
 **En Windows:**
 
-    1. Abrir la consola o el símbolo del sistema (Cmd). Puedes hacerlo buscando "cmd" en el menú de inicio y seleccionando la aplicación "Símbolo del sistema".
-    2. Ejecuta el comando: **arp -a**. Este comando muestra una tabla de direcciones IP y MAC de los dispositivos conectados a tu red local.
-    3. Para obtener información más detallada, puedes usar el comando **ipconfig** para ver tu configuración de red y el comando **netstat -an** para ver las conexiones de red activas.
+1. Abrir la consola o el símbolo del sistema (Cmd). Puedes hacerlo buscando "cmd" en el menú de inicio y seleccionando la aplicación "Símbolo del sistema".
+2. Ejecuta el comando: **arp -a**. Este comando muestra una tabla de direcciones IP y MAC de los dispositivos conectados a tu red local.
+3. Para obtener información más detallada, puedes usar el comando **ipconfig** para ver tu configuración de red y el comando **netstat -an** para ver las conexiones de red activas.
 
 ###**1.4. Conectar con PuTTY (SSH) y actualizar la RPi**###
 
