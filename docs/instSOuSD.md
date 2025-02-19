@@ -117,6 +117,8 @@ Accediendo a ajustes del móvil de **Conexión Compartida** se obtiene la IP.
 **En Linux:**
 
 1. En Linux abre el terminal, puedes usar el atajo Ctrl + Alt + T o buscar "Terminal" en tu gestor de aplicaciones.
+
+
 2. Usar el comando **ipconfig** para ver la dirección IP local.
 3. Usar el comando **nmap -sP [rango de IP]** para escanear la red y obtener una lista más completa de dispositivos conectados. Por ejemplo, nmap -sP 192.168.1.0/24 escaneará todos los dispositivos en la red 192.168.1.x.
 
