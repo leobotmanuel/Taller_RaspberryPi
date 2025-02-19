@@ -39,3 +39,9 @@ Repositorios de software por categorias
 </center>
 
 La instalación y desinstalación se software se hace como se ha explicado para **Recommended software**
+
+###**2.3. Recursos de aprendizaje**###
+
+([Guía básica de aprendizaje](https://magpi.raspberrypi.com/books/beginners-guide-4th-ed-es))
+
+([Programas ejemplos del taller](https://github.com/leobotmanuel/Taller_RaspberryPi/tree/main/docs/img/programas))

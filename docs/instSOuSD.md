@@ -102,6 +102,7 @@ Conexión de la alimentación a la placa Raspberry Pi
 </center>
 
 ###**1.3. Detectar la IP de RPi**###
+###**- con el móvil**###
 Con el móvil configurado para **compartir conexión wifi** y la placa Raspberry Pi encendida con los ajustes realizados al sistema operativo, en el apartado anterior, se puede ver la IP de de la placa Raspberry PI.
 
 Accediendo a ajustes del móvil de **Conexión Compartida** se obtiene la IP.
@@ -111,11 +112,26 @@ Accediendo a ajustes del móvil de **Conexión Compartida** se obtiene la IP.
 |![17_ipConexion](img/instSOuSD/17_ipConexion.png)|![18_ipConexion](img/instSOuSD/18_ipConexion.png)|![19_ipConexion](img/instSOuSD/19_ipConexion.png)|
 |**Sin conexión**|**Con conexión**|**IP de RPi**|
 
+###**- con comandos en línea del sistema operativo**###
+
+**En Linux:**
+
+    1. En Linux abre el terminal, puedes usar el atajo Ctrl + Alt + T o buscar "Terminal" en tu gestor de aplicaciones.
+    2. Usar el comando **ipconfig** para ver la dirección IP local.
+    3. Usar el comando **nmap -sP [rango de IP]** para escanear la red y obtener una lista más completa de dispositivos conectados. Por ejemplo, nmap -sP 192.168.1.0/24 escaneará todos los dispositivos en la red 192.168.1.x.
+
+**En Windows:**
+
+    1. Abrir la consola o el símbolo del sistema (Cmd). Puedes hacerlo buscando "cmd" en el menú de inicio y seleccionando la aplicación "Símbolo del sistema".
+    2. Ejecuta el comando: **arp -a**. Este comando muestra una tabla de direcciones IP y MAC de los dispositivos conectados a tu red local.
+    3. Para obtener información más detallada, puedes usar el comando **ipconfig** para ver tu configuración de red y el comando **netstat -an** para ver las conexiones de red activas.
+
 ###**1.4. Conectar con PuTTY (SSH) y actualizar la RPi**###
 
 Conociendo la **IP de la placa Raspberry Pi** se puede conectar en remoto por el protocolo SSH a la placa. Utilizando la conexión SSH se accede a la consola de comandos en línea que no va a permitir actualizar y cambiar la confiuración de la Raspberry Pi para acceder en modo gráfico.
 
 Se necesita tener instalado en el portátil la aplicación **PuTTY**, emulador de terminal,que hay tanto para Linux como para Windows. [Descargar](https://www.putty.org/).
+
 
 En Ubuntu es fácil instalarlo desde el **Gestor de software**
 <center>
